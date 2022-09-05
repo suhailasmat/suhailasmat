@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhailasmat
-- 👀 I’m interested in Blocchain Programming and Web Development
-- 🌱 I’m currently learning AssemblyScript, Rust, HTML
+- 👀 I’m interested in Blockhain Programming and Web Development
+- 🌱 I’m currently on a journey to become a blockchain developer, starting with taking the CS50 course by harvard
 - 📫 Reach me by hopping in my DMs
 
 <!---
